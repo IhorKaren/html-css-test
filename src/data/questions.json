@@ -1,0 +1,1134 @@
+[
+  {
+    "question": {
+      "uk": "Який тег використовується для створення гіперпосилання?",
+      "en": "Which tag is used to create a hyperlink?"
+    },
+    "options": {
+      "uk": ["<link>", "<a>", "<href>", "<url>"],
+      "en": ["<link>", "<a>", "<href>", "<url>"]
+    },
+    "correct_answers": {
+      "uk": ["<a>"],
+      "en": ["<a>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тег використовується для створення нумерованого списку?",
+      "en": "Which tag is used to create an ordered list?"
+    },
+    "options": {
+      "uk": ["<ul>", "<ol>", "<li>", "<dl>"],
+      "en": ["<ul>", "<ol>", "<li>", "<dl>"]
+    },
+    "correct_answers": {
+      "uk": ["<ol>"],
+      "en": ["<ol>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який атрибут вказує альтернативний текст для зображення?",
+      "en": "Which attribute specifies the alternative text for an image?"
+    },
+    "options": {
+      "uk": ["src", "alt", "title", "href"],
+      "en": ["src", "alt", "title", "href"]
+    },
+    "correct_answers": {
+      "uk": ["alt"],
+      "en": ["alt"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який атрибут застосовується для задання унікального ідентифікатора елемента?",
+      "en": "Which attribute is used to assign a unique identifier to an element?"
+    },
+    "options": {
+      "uk": ["id", "class", "data", "name"],
+      "en": ["id", "class", "data", "name"]
+    },
+    "correct_answers": {
+      "uk": ["id"],
+      "en": ["id"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який семантичний тег підходить для основного вмісту сторінки?",
+      "en": "Which semantic tag is suitable for the main content of the page?"
+    },
+    "options": {
+      "uk": ["<body>", "<section>", "<main>", "<div>"],
+      "en": ["<body>", "<section>", "<main>", "<div>"]
+    },
+    "correct_answers": {
+      "uk": ["<main>"],
+      "en": ["<main>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Для позначення навігаційного меню слід використовувати тег?",
+      "en": "Which tag should be used to designate a navigation menu?"
+    },
+    "options": {
+      "uk": ["<nav>", "<menu>", "<ul>", "<section>"],
+      "en": ["<nav>", "<menu>", "<ul>", "<section>"]
+    },
+    "correct_answers": {
+      "uk": ["<nav>"],
+      "en": ["<nav>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Семантичний тег для виноски або бічної панелі?",
+      "en": "Which semantic tag is used for a sidebar or aside?"
+    },
+    "options": {
+      "uk": ["<aside>", "<figure>", "<footer>", "<section>"],
+      "en": ["<aside>", "<figure>", "<footer>", "<section>"]
+    },
+    "correct_answers": {
+      "uk": ["<aside>"],
+      "en": ["<aside>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тег слід використовувати для позначення окремої статті?",
+      "en": "Which tag is used to mark up an independent article?"
+    },
+    "options": {
+      "uk": ["<article>", "<section>", "<div>", "<main>"],
+      "en": ["<article>", "<section>", "<div>", "<main>"]
+    },
+    "correct_answers": {
+      "uk": ["<article>"],
+      "en": ["<article>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тег призначено для заголовку найвищого рівня?",
+      "en": "Which tag is used for the highest-level heading?"
+    },
+    "options": {
+      "uk": ["<h1>", "<h2>", "<header>", "<title>"],
+      "en": ["<h1>", "<h2>", "<header>", "<title>"]
+    },
+    "correct_answers": {
+      "uk": ["<h1>"],
+      "en": ["<h1>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Для абзацу тексту використовується тег?",
+      "en": "Which tag is used for a paragraph of text?"
+    },
+    "options": {
+      "uk": ["<p>", "<div>", "<span>", "<text>"],
+      "en": ["<p>", "<div>", "<span>", "<text>"]
+    },
+    "correct_answers": {
+      "uk": ["<p>"],
+      "en": ["<p>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що робить overflow: hidden;?",
+      "en": "What does overflow: hidden; do?"
+    },
+    "options": {
+      "uk": [
+        "ховає вміст, що виходить за межі",
+        "додає смуги прокрутки",
+        "розтягує елемент",
+        "змінює display"
+      ],
+      "en": [
+        "hides content that exceeds the element's bounds",
+        "adds scrollbars",
+        "stretches the element",
+        "changes display"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["ховає вміст, що виходить за межі"],
+      "en": ["hides content that exceeds the element's bounds"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тег використовується для вставки зображення?",
+      "en": "Which tag is used to insert an image?"
+    },
+    "options": {
+      "uk": ["<image>", "<img>", "<figure>", "<picture>"],
+      "en": ["<image>", "<img>", "<figure>", "<picture>"]
+    },
+    "correct_answers": {
+      "uk": ["<img>"],
+      "en": ["<img>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Для чого використовується атрибут src у тегу img?",
+      "en": "What does the src attribute in the img tag specify?"
+    },
+    "options": {
+      "uk": [
+        "вказує альтернативний текст",
+        "задає шлях до зображення",
+        "задає розміри",
+        "визначає підпис"
+      ],
+      "en": [
+        "specifies the alternative text",
+        "sets the image source URL",
+        "sets dimensions",
+        "defines caption"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["задає шлях до зображення"],
+      "en": ["sets the image source URL"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тег дозволяє вказати декілька джерел зображення для різних розмірів екрана?",
+      "en": "Which tag allows specifying multiple image sources for different screen sizes?"
+    },
+    "options": {
+      "uk": ["<img>", "<source>", "<picture>", "<video>"],
+      "en": ["<img>", "<source>", "<picture>", "<video>"]
+    },
+    "correct_answers": {
+      "uk": ["<picture>"],
+      "en": ["<picture>"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає елемент за id?",
+      "en": "Which selector selects an element by its id?"
+    },
+    "options": {
+      "uk": ["#element", ".element", "element", "*"],
+      "en": ["#element", ".element", "element", "*"]
+    },
+    "correct_answers": {
+      "uk": ["#element"],
+      "en": ["#element"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Селектор вибирає всі елементи з класом \"btn\"?",
+      "en": "Which selector selects all elements with the class \"btn\"?"
+    },
+    "options": {
+      "uk": [".btn", "#btn", "btn", "*"],
+      "en": [".btn", "#btn", "btn", "*"]
+    },
+    "correct_answers": {
+      "uk": [".btn"],
+      "en": [".btn"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Комбінований селектор div > p вибирає?",
+      "en": "The combined selector div > p selects what?"
+    },
+    "options": {
+      "uk": [
+        "усі p всередині div будь-якого рівня",
+        "лише прямі діти p",
+        "p всередині div і span",
+        "іґнорує вкладені"
+      ],
+      "en": [
+        "all p inside div at any level",
+        "only direct child p",
+        "p inside div and span",
+        "ignores nested"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["лише прямі діти p"],
+      "en": ["only direct child p"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає елемент з класом .active, який НЕ є <a>?",
+      "en": "Which selector selects an element with class .active that is NOT an <a>?"
+    },
+    "options": {
+      "uk": [
+        ":not(.active a)",
+        ".active:not(a)",
+        ".active:not(a)",
+        ".active:not(a)"
+      ],
+      "en": [
+        ":not(.active a)",
+        ".active:not(a)",
+        ".active:not(a)",
+        ".active:not(a)"
+      ]
+    },
+    "correct_answers": {
+      "uk": [".active:not(a)"],
+      "en": [".active:not(a)"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає елементи input з типом \"checkbox\"?",
+      "en": "Which selector selects input elements of type \"checkbox\"?"
+    },
+    "options": {
+      "uk": [
+        "input.checkbox",
+        "input[type=\"checkbox\"]",
+        "input#checkbox",
+        "input>checkbox"
+      ],
+      "en": [
+        "input.checkbox",
+        "input[type=\"checkbox\"]",
+        "input#checkbox",
+        "input>checkbox"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["input[type=\"checkbox\"]"],
+      "en": ["input[type=\"checkbox\"]"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає всі елементи на сторінці?",
+      "en": "Which selector selects all elements on the page?"
+    },
+    "options": {
+      "uk": ["*", "body", "html", "all"],
+      "en": ["*", "body", "html", "all"]
+    },
+    "correct_answers": {
+      "uk": ["*"],
+      "en": ["*"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає кожен <li> елемент, що є безпосереднім нащадком <ul>?",
+      "en": "Which selector selects every <li> element that is a direct child of a <ul>?"
+    },
+    "options": {
+      "uk": ["ul li", "ul > li", "ul + li", "ul ~ li"],
+      "en": ["ul li", "ul > li", "ul + li", "ul ~ li"]
+    },
+    "correct_answers": {
+      "uk": ["ul > li"],
+      "en": ["ul > li"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який селектор вибирає кожен <p>, наступний після будь-якого <h2>?",
+      "en": "Which selector selects every <p> immediately following any <h2>?"
+    },
+    "options": {
+      "uk": ["h2 p", "h2 ~ p", "h2 + p", "p + h2"],
+      "en": ["h2 p", "h2 ~ p", "h2 + p", "p + h2"]
+    },
+    "correct_answers": {
+      "uk": ["h2 + p"],
+      "en": ["h2 + p"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який псевдоклас вибирає кожний парний дочірній елемент у батьківському контейнері?",
+      "en": "Which pseudo-class selects every even child element within its parent container?"
+    },
+    "options": {
+      "uk": [
+        ":nth-child(even)",
+        ":nth-of-type(even)",
+        ":even-child",
+        ":child(even)"
+      ],
+      "en": [
+        ":nth-child(even)",
+        ":nth-of-type(even)",
+        ":even-child",
+        ":child(even)"
+      ]
+    },
+    "correct_answers": {
+      "uk": [":nth-child(even)"],
+      "en": [":nth-child(even)"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який псевдоклас застосовується при наведенні курсора?",
+      "en": "Which pseudo-class is applied when hovering the cursor?"
+    },
+    "options": {
+      "uk": [":hover", ":active", ":focus", ":visited"],
+      "en": [":hover", ":active", ":focus", ":visited"]
+    },
+    "correct_answers": {
+      "uk": [":hover"],
+      "en": [":hover"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Для стилізації першого дочірнього елемента використовується псевдоклас?",
+      "en": "Which pseudo-class is used to style the first child element?"
+    },
+    "options": {
+      "uk": [":first-child", ":nth-child", ":last-child", ":only-child"],
+      "en": [":first-child", ":nth-child", ":last-child", ":only-child"]
+    },
+    "correct_answers": {
+      "uk": [":first-child"],
+      "en": [":first-child"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Псевдоклас для стилізації відвіданого посилання?",
+      "en": "Which pseudo-class is used to style a visited link?"
+    },
+    "options": {
+      "uk": [":link", ":visited", ":active", ":focus"],
+      "en": [":link", ":visited", ":active", ":focus"]
+    },
+    "correct_answers": {
+      "uk": [":visited"],
+      "en": [":visited"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Псевдоклас для елемента в стані фокусу?",
+      "en": "Which pseudo-class is used to style an element in focus state?"
+    },
+    "options": {
+      "uk": [":hover", ":focus", ":active", ":checked"],
+      "en": [":hover", ":focus", ":active", ":checked"]
+    },
+    "correct_answers": {
+      "uk": [":focus"],
+      "en": [":focus"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який формат CSS-кольору задається у вигляді \"#RRGGBB\"?",
+      "en": "Which CSS color format is specified as \"#RRGGBB\"?"
+    },
+    "options": {
+      "uk": ["Hex", "RGB", "HSL", "CMYK"],
+      "en": ["Hex", "RGB", "HSL", "CMYK"]
+    },
+    "correct_answers": {
+      "uk": ["Hex"],
+      "en": ["Hex"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що позначає значення rgb(0, 255, 0)?",
+      "en": "What does the value rgb(0, 255, 0) represent?"
+    },
+    "options": {
+      "uk": ["червоний", "зелений", "синій", "чорний"],
+      "en": ["red", "green", "blue", "black"]
+    },
+    "correct_answers": {
+      "uk": ["зелений"],
+      "en": ["green"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який формат кольору дозволяє задавати прозорість?",
+      "en": "Which color format allows specifying transparency?"
+    },
+    "options": {
+      "uk": ["rgb", "hsl", "rgba", "hex"],
+      "en": ["rgb", "hsl", "rgba", "hex"]
+    },
+    "correct_answers": {
+      "uk": ["rgba"],
+      "en": ["rgba"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який атрибут тега <a> використовується, щоб відкрити посилання у новій вкладці?",
+      "en": "Which attribute of the <a> tag is used to open the link in a new tab?"
+    },
+    "options": {
+      "uk": ["href", "target", "rel", "src"],
+      "en": ["href", "target", "rel", "src"]
+    },
+    "correct_answers": {
+      "uk": ["target"],
+      "en": ["target"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Які складові блочної моделі?",
+      "en": "What are the components of the CSS box model?"
+    },
+    "options": {
+      "uk": ["content", "padding", "border", "margin", "position"],
+      "en": ["content", "padding", "border", "margin", "position"]
+    },
+    "correct_answers": {
+      "uk": ["content", "padding", "border", "margin"],
+      "en": ["content", "padding", "border", "margin"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість CSS задає відступ всередині елемента?",
+      "en": "Which CSS property sets the inner spacing of an element?"
+    },
+    "options": {
+      "uk": ["margin", "padding", "border", "indent"],
+      "en": ["margin", "padding", "border", "indent"]
+    },
+    "correct_answers": {
+      "uk": ["padding"],
+      "en": ["padding"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Відстань між межами елемента та сусідніми елементами задає?",
+      "en": "Which property sets the space between the element border and neighboring elements?"
+    },
+    "options": {
+      "uk": ["margin", "padding", "border", "spacing"],
+      "en": ["margin", "padding", "border", "spacing"]
+    },
+    "correct_answers": {
+      "uk": ["margin"],
+      "en": ["margin"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість задає товщину рамки?",
+      "en": "Which property sets the border thickness?"
+    },
+    "options": {
+      "uk": ["border-size", "border-width", "border-style", "border"],
+      "en": ["border-size", "border-width", "border-style", "border"]
+    },
+    "correct_answers": {
+      "uk": ["border-width"],
+      "en": ["border-width"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Які властивості задають розміри блоку?",
+      "en": "Which properties set the dimensions of a block?"
+    },
+    "options": {
+      "uk": ["width", "height", "size", "dimensions"],
+      "en": ["width", "height", "size", "dimensions"]
+    },
+    "correct_answers": {
+      "uk": ["width", "height"],
+      "en": ["width", "height"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що робить властивість box-sizing: border-box;?",
+      "en": "What does box-sizing: border-box; do?"
+    },
+    "options": {
+      "uk": [
+        "враховує padding і border у width/height",
+        "враховує тільки вміст",
+        "враховує тільки padding",
+        "враховує тільки border"
+      ],
+      "en": [
+        "includes padding and border in width/height",
+        "includes content only",
+        "includes padding only",
+        "includes border only"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["враховує padding і border у width/height"],
+      "en": ["includes padding and border in width/height"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість CSS переміщує елемент по горизонталі відносно позиційного контейнера?",
+      "en": "Which property moves an element horizontally relative to its positioned container?"
+    },
+    "options": {
+      "uk": ["margin-left", "left", "translateX", "padding-left"],
+      "en": ["margin-left", "left", "translateX", "padding-left"]
+    },
+    "correct_answers": {
+      "uk": ["left"],
+      "en": ["left"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість CSS задає відстань від верхнього краю елемента до верхнього краю контейнера?",
+      "en": "Which property sets the distance from the top edge of an element to the top edge of its container?"
+    },
+    "options": {
+      "uk": ["top", "margin-top", "padding-top", "position-top"],
+      "en": ["top", "margin-top", "padding-top", "position-top"]
+    },
+    "correct_answers": {
+      "uk": ["top"],
+      "en": ["top"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка функція CSS transform використовується для переміщення елемента?",
+      "en": "Which CSS transform function is used to move an element?"
+    },
+    "options": {
+      "uk": ["translate", "rotate", "scale", "skew"],
+      "en": ["translate", "rotate", "scale", "skew"]
+    },
+    "correct_answers": {
+      "uk": ["translate"],
+      "en": ["translate"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип відображення елемента не створює нового рядка?",
+      "en": "Which display type does not create a new line?"
+    },
+    "options": {
+      "uk": ["inline", "block", "inline-block", "flex"],
+      "en": ["inline", "block", "inline-block", "flex"]
+    },
+    "correct_answers": {
+      "uk": ["inline"],
+      "en": ["inline"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип відображення створює новий рядок та займає всю доступну ширину?",
+      "en": "Which display type creates a new line and occupies the full available width?"
+    },
+    "options": {
+      "uk": ["inline", "block", "inline-block", "none"],
+      "en": ["inline", "block", "inline-block", "none"]
+    },
+    "correct_answers": {
+      "uk": ["block"],
+      "en": ["block"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який display дозволяє задавати width/height та не переносить елемент на новий рядок?",
+      "en": "Which display allows setting width/height but does not break the line?"
+    },
+    "options": {
+      "uk": ["inline", "block", "inline-block", "flex"],
+      "en": ["inline", "block", "inline-block", "flex"]
+    },
+    "correct_answers": {
+      "uk": ["inline-block"],
+      "en": ["inline-block"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість робить контейнер flex-контейнером?",
+      "en": "Which property makes a container a flex container?"
+    },
+    "options": {
+      "uk": ["display: flex", "flex-direction", "justify-content", "flex-wrap"],
+      "en": ["display: flex", "flex-direction", "justify-content", "flex-wrap"]
+    },
+    "correct_answers": {
+      "uk": ["display: flex"],
+      "en": ["display: flex"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Властивість, що вирівнює елементи по головній осі у Flexbox?",
+      "en": "Which property aligns items along the main axis in Flexbox?"
+    },
+    "options": {
+      "uk": ["align-items", "justify-content", "align-content", "flex-align"],
+      "en": ["align-items", "justify-content", "align-content", "flex-align"]
+    },
+    "correct_answers": {
+      "uk": ["justify-content"],
+      "en": ["justify-content"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість встановлює напрямок головної осі у Flexbox?",
+      "en": "Which property sets the direction of the main axis in Flexbox?"
+    },
+    "options": {
+      "uk": ["flex-direction", "flex-wrap", "flex-flow", "direction"],
+      "en": ["flex-direction", "flex-wrap", "flex-flow", "direction"]
+    },
+    "correct_answers": {
+      "uk": ["flex-direction"],
+      "en": ["flex-direction"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Які значення flex-wrap дозволяють переносити елементи на нові рядки?",
+      "en": "Which flex-wrap values allow items to wrap onto new lines?"
+    },
+    "options": {
+      "uk": ["nowrap", "wrap", "wrap-reverse", "reverse"],
+      "en": ["nowrap", "wrap", "wrap-reverse", "reverse"]
+    },
+    "correct_answers": {
+      "uk": ["wrap", "wrap-reverse"],
+      "en": ["wrap", "wrap-reverse"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Для вирівнювання елементів по поперечній осі у Flexbox використовується?",
+      "en": "Which property is used to align items along the cross axis in Flexbox?"
+    },
+    "options": {
+      "uk": ["align-items", "justify-content", "align-self", "order"],
+      "en": ["align-items", "justify-content", "align-self", "order"]
+    },
+    "correct_answers": {
+      "uk": ["align-items"],
+      "en": ["align-items"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яке значення justify-content рівномірно розподіляє простір між і навколо елементів?",
+      "en": "Which justify-content value evenly distributes space between and around items?"
+    },
+    "options": {
+      "uk": ["space-between", "space-around", "space-evenly", "center"],
+      "en": ["space-between", "space-around", "space-evenly", "center"]
+    },
+    "correct_answers": {
+      "uk": ["space-evenly"],
+      "en": ["space-evenly"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість дозволяє змінити порядок відображення flex-елементів?",
+      "en": "Which property allows you to change the display order of flex items?"
+    },
+    "options": {
+      "uk": ["order", "z-index", "position", "flex-order"],
+      "en": ["order", "z-index", "position", "flex-order"]
+    },
+    "correct_answers": {
+      "uk": ["order"],
+      "en": ["order"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість задає відстань між елементами у flex-контейнері?",
+      "en": "Which property sets the space between items in a flex container?"
+    },
+    "options": {
+      "uk": ["margin", "padding", "gap", "spacing"],
+      "en": ["margin", "padding", "gap", "spacing"]
+    },
+    "correct_answers": {
+      "uk": ["gap"],
+      "en": ["gap"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка CSS-властивість задає фонове зображення?",
+      "en": "Which CSS property sets a background image?"
+    },
+    "options": {
+      "uk": ["background", "background-image", "bg-image", "image"],
+      "en": ["background", "background-image", "bg-image", "image"]
+    },
+    "correct_answers": {
+      "uk": ["background-image"],
+      "en": ["background-image"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Які формати зображень підтримуються сучасними браузерами?",
+      "en": "Which image formats are supported by modern browsers?"
+    },
+    "options": {
+      "uk": ["JPEG", "PNG", "MP3", "GIF"],
+      "en": ["JPEG", "PNG", "MP3", "GIF"]
+    },
+    "correct_answers": {
+      "uk": ["JPEG", "PNG", "GIF"],
+      "en": ["JPEG", "PNG", "GIF"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка функція CSS використовується для створення лінійного градієнту?",
+      "en": "Which CSS function is used to create a linear gradient?"
+    },
+    "options": {
+      "uk": ["linear-gradient", "radial-gradient", "gradient", "color-stop"],
+      "en": ["linear-gradient", "radial-gradient", "gradient", "color-stop"]
+    },
+    "correct_answers": {
+      "uk": ["linear-gradient"],
+      "en": ["linear-gradient"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що задає властивість background-repeat: no-repeat?",
+      "en": "What does background-repeat: no-repeat; specify?"
+    },
+    "options": {
+      "uk": [
+        "відображає фон лише один раз",
+        "задає горизонтальне повторення",
+        "задає вертикальне повторення",
+        "повторює фон по обох осях"
+      ],
+      "en": [
+        "displays the background only once",
+        "repeats horizontally",
+        "repeats vertically",
+        "repeats on both axes"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["відображає фон лише один раз"],
+      "en": ["displays the background only once"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип позиціонування за замовчуванням?",
+      "en": "What is the default position type?"
+    },
+    "options": {
+      "uk": ["static", "relative", "absolute", "fixed"],
+      "en": ["static", "relative", "absolute", "fixed"]
+    },
+    "correct_answers": {
+      "uk": ["static"],
+      "en": ["static"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип позиціонування дозволяє елементу бути відносно найближчого позиційованого батька?",
+      "en": "Which position type allows an element to be positioned relative to its nearest positioned ancestor?"
+    },
+    "options": {
+      "uk": ["static", "relative", "absolute", "fixed"],
+      "en": ["static", "relative", "absolute", "fixed"]
+    },
+    "correct_answers": {
+      "uk": ["absolute"],
+      "en": ["absolute"]
+    }
+  },
+  {
+    "question": {
+      "uk": "position: fixed – це позиціонування відносно?",
+      "en": "Position: fixed is relative to what?"
+    },
+    "options": {
+      "uk": [
+        "носія елемента",
+        "вікна перегляду",
+        "батьківського контейнера",
+        "сусіднього елемента"
+      ],
+      "en": [
+        "the containing element",
+        "the viewport",
+        "the containing block",
+        "a sibling element"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["вікна перегляду"],
+      "en": ["the viewport"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип позиціонування прилипає при прокрутці?",
+      "en": "Which position type sticks when scrolling?"
+    },
+    "options": {
+      "uk": ["relative", "absolute", "sticky", "fixed"],
+      "en": ["relative", "absolute", "sticky", "fixed"]
+    },
+    "correct_answers": {
+      "uk": ["sticky"],
+      "en": ["sticky"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що робить position: relative?",
+      "en": "What does position: relative; do?"
+    },
+    "options": {
+      "uk": [
+        "резервує місце та зсуває елемент відносно його початкової позиції",
+        "не резервує місце та зсуває елемент",
+        "прикріплює елемент до вікна браузера",
+        "змінює display на block"
+      ],
+      "en": [
+        "reserves space and offsets the element from its normal position",
+        "does not reserve space and offsets the element",
+        "attaches the element to the browser window",
+        "changes display to block"
+      ]
+    },
+    "correct_answers": {
+      "uk": [
+        "резервує місце та зсуває елемент відносно його початкової позиції"
+      ],
+      "en": ["reserves space and offsets the element from its normal position"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість визначає тривалість CSS-переходу?",
+      "en": "Which property defines the duration of a CSS transition?"
+    },
+    "options": {
+      "uk": [
+        "transition",
+        "transition-duration",
+        "transition-delay",
+        "transition-property"
+      ],
+      "en": [
+        "transition",
+        "transition-duration",
+        "transition-delay",
+        "transition-property"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["transition-duration"],
+      "en": ["transition-duration"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість задає затримку перед початком переходу?",
+      "en": "Which property specifies the delay before a transition starts?"
+    },
+    "options": {
+      "uk": [
+        "transition-delay",
+        "transition-duration",
+        "transition-property",
+        "transition-timing-function"
+      ],
+      "en": [
+        "transition-delay",
+        "transition-duration",
+        "transition-property",
+        "transition-timing-function"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["transition-delay"],
+      "en": ["transition-delay"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Яка властивість є скороченим записом для duration, property, timing-function і delay?",
+      "en": "Which shorthand property sets duration, property, timing-function, and delay?"
+    },
+    "options": {
+      "uk": ["transition", "animation", "transform", "transition-all"],
+      "en": ["transition", "animation", "transform", "transition-all"]
+    },
+    "correct_answers": {
+      "uk": ["transition"],
+      "en": ["transition"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який атрибут робить поле форми обов'язковим для заповнення?",
+      "en": "Which attribute makes a form field required?"
+    },
+    "options": {
+      "uk": ["required", "validate", "pattern", "novalidate"],
+      "en": ["required", "validate", "pattern", "novalidate"]
+    },
+    "correct_answers": {
+      "uk": ["required"],
+      "en": ["required"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який атрибут input показує підказку всередині поля до введення даних?",
+      "en": "Which input attribute displays placeholder text inside a field before data entry?"
+    },
+    "options": {
+      "uk": ["title", "label", "placeholder", "hint"],
+      "en": ["title", "label", "placeholder", "hint"]
+    },
+    "correct_answers": {
+      "uk": ["placeholder"],
+      "en": ["placeholder"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який тип input виконує базову перевірку email?",
+      "en": "Which input type performs basic email validation?"
+    },
+    "options": {
+      "uk": ["text", "email", "url", "date"],
+      "en": ["text", "email", "url", "date"]
+    },
+    "correct_answers": {
+      "uk": ["email"],
+      "en": ["email"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Що означає атрибут novalidate у формі?",
+      "en": "What does the novalidate attribute on a form element do?"
+    },
+    "options": {
+      "uk": [
+        "відключає базову валідацію",
+        "посилює валідацію",
+        "вмикає додаткові перевірки",
+        "вимикає кешування"
+      ],
+      "en": [
+        "disables built-in validation",
+        "enforces validation",
+        "enables additional checks",
+        "disables caching"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["відключає базову валідацію"],
+      "en": ["disables built-in validation"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Який мета-тег необхідний для адаптивності на мобільних пристроях?",
+      "en": "Which meta tag is required for mobile device responsiveness?"
+    },
+    "options": {
+      "uk": ["description", "viewport", "charset", "robots"],
+      "en": ["description", "viewport", "charset", "robots"]
+    },
+    "correct_answers": {
+      "uk": ["viewport"],
+      "en": ["viewport"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Як написати медіа-запит для екрана шириною до 600px?",
+      "en": "How do you write a media query for screens with a width up to 600px?"
+    },
+    "options": {
+      "uk": [
+        "@media (max-width: 600px)",
+        "@media screen and (width <= 600px)",
+        "@media only (max-device-width: 600px)",
+        "@media width: 600px"
+      ],
+      "en": [
+        "@media (max-width: 600px)",
+        "@media screen and (width <= 600px)",
+        "@media only (max-device-width: 600px)",
+        "@media width: 600px"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["@media (max-width: 600px)"],
+      "en": ["@media (max-width: 600px)"]
+    }
+  },
+  {
+    "question": {
+      "uk": "Як написати медіа-запит для екрана шириною від 480px і більше?",
+      "en": "How do you write a media query for screens 480px wide and up?"
+    },
+    "options": {
+      "uk": [
+        "@media (max-width: 480px)",
+        "@media (min-width: 480px)",
+        "@media width >= 480px",
+        "@media screen:480px"
+      ],
+      "en": [
+        "@media (max-width: 480px)",
+        "@media (min-width: 480px)",
+        "@media width >= 480px",
+        "@media screen:480px"
+      ]
+    },
+    "correct_answers": {
+      "uk": ["@media (min-width: 480px)"],
+      "en": ["@media (min-width: 480px)"]
+    }
+  }
+]
