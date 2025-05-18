@@ -257,14 +257,14 @@
       ],
       "en": [
         "all p inside div at any level",
-        "only direct child p",
+        "only direct child div",
         "p inside div and span",
         "ignores nested"
       ]
     },
     "correct_answers": {
-      "uk": ["лише прямі діти p"],
-      "en": ["only direct child p"]
+      "uk": ["лише прямі діти div"],
+      "en": ["only direct child div"]
     }
   },
   {
