@@ -274,16 +274,16 @@
     },
     "options": {
       "uk": [
-        ":not(.active a)",
+        ":not(a).active",
         ".active:not(a)",
-        ".active:not(a)",
-        ".active:not(a)"
+        "a:not(.active)",
+        ".active > :not(a)"
       ],
       "en": [
-        ":not(.active a)",
+        ":not(a).active",
         ".active:not(a)",
-        ".active:not(a)",
-        ".active:not(a)"
+        "a:not(.active)",
+        ".active > :not(a)"
       ]
     },
     "correct_answers": {
